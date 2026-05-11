@@ -1,4 +1,4 @@
-
+new Addon for Bear for macOS - cloud backup and goal tracking is the best Bear for macOS addon, featuring cloud backup and goal tracking. Safe, efficient, and optimized for macOS
 
 
 
